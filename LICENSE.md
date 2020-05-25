@@ -1,0 +1,1 @@
+This license is for version 1.0
