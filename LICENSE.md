@@ -1,1 +1,2 @@
-This license is for version 1.0
+This license is for version 2.0
+
